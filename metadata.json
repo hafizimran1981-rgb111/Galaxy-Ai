@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy AI",
+  "description": "The ultimate cosmic-powered AI assistant. Experience multi-tiered intelligence, standard & premium plans, local chat history, and seamless billing simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
